@@ -2,7 +2,9 @@
 
 Course content from ACM AI's Winter 2022 iteration of beginner track workshops.
 
-Software Used: Python3 (Google Colaboratory + Jupyter Notebook)
+Software Used: Python3 (Google Colaboratory + Jupyter Notebook), TensorFlow (Playground), scikit-learn, NumPy, Pandas 
+
+Asset Cluster: https://tinyurl.com/acm-ai-beginner-assets
 
 ## Course Material
 
@@ -16,4 +18,3 @@ Workshop | Agenda | Date
 6 |  NumPy and Pandas | February 17
 7 |  Guided Project - I | February 24
 8 |  Guided Project - II | March 3
-
