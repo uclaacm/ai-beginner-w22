@@ -6,6 +6,8 @@ Software Used: Python3 (Google Colaboratory + Jupyter Notebook), TensorFlow (Pla
 
 Asset Cluster: https://tinyurl.com/acm-ai-beginner-assets
 
+Guiding Officers: Jenson Choi, Sudhanshu Agarwal, Claire Huang, Naman Modani
+
 ## Course Material
 
 Workshop | Agenda | Date  
